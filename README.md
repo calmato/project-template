@@ -1,5 +1,6 @@
 # Calmato Project Template
 
+<!-- CI/CDのバッチを貼り付け -->
 プロジェクトテンプレート
 
 ## 各種設定
@@ -21,7 +22,7 @@
 ## その他
 
 <!-- Makefileとしてまとめたコマンドを記載 -->
-<details open>
+<details>
 <summary>コマンド一覧</summary>
 
 * WIP
